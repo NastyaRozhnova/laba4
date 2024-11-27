@@ -39,6 +39,8 @@
 
    ```
    docker run -dit --name con1 labafire
+   ```
+   ```
    docker run -dit --name con2 labafire
    ```
 
@@ -57,6 +59,8 @@
 
    ```
    docker network connect myNetwork con1
+   ```
+   ```
    docker network connect myNetwork con2
    ```
 
@@ -81,6 +85,9 @@
     ```
     
    <img width="600" alt="image" src="https://github.com/user-attachments/assets/3b1f4dcc-78b8-4147-b2c2-da93d6de18ab">
+
+   <img width="796" alt="image" src="https://github.com/user-attachments/assets/0f6bbac4-eaca-4e23-989c-44d71fece0cb">
+
 
    
 
